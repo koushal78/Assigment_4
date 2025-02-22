@@ -1,8 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', 
+  
     images: {
-        domains: ["media.better.com"], // Add the domain here
+        domains: ["media.better.com"],
+        unoptimized: true,
+        
+        // Add the domain here
       },
 };
 
