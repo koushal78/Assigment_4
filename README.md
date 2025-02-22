@@ -4,10 +4,10 @@
 This project is a multi-page web application built using **React with Next.js**, replicating the design and basic functionality of four specific pages from **Better.com**. The application includes navigation, interactive components, and responsive design, ensuring a seamless user experience.
 
 ## Live Demo
-🔗 **Deployed Application:** [Insert Link]
+🔗 **Deployed Application:**[ [Insert Link]](https://assiggment4.netlify.app/)
 
 ## Repository
-🔗 **GitHub Repository:** [Insert Link]
+🔗 **GitHub Repository:** [[Insert Link]](https://github.com/koushal78/Assigment_4)
 
 ---
 
@@ -45,11 +45,11 @@ Make sure you have **Node.js** and **Git** installed.
 ### Steps to Run Locally
 1. Clone the repository:
    ```sh
-   git clone [Insert Repository URL]
+   git clone [[Insert Repository URL]](https://github.com/koushal78/Assigment_4)
    ```
 2. Navigate to the project folder:
    ```sh
-   cd better-com-replica
+   cd Assigment_4
    ```
 3. Install dependencies:
    ```sh
@@ -59,43 +59,10 @@ Make sure you have **Node.js** and **Git** installed.
    ```sh
    npm run dev
    ```
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
----
 
-## Deployment
-To deploy on **Vercel**, follow these steps:
-1. Install Vercel CLI:
-   ```sh
-   npm install -g vercel
-   ```
-2. Login to Vercel:
-   ```sh
-   vercel login
-   ```
-3. Deploy:
-   ```sh
-   vercel
-   ```
 
----
 
-## Submission
-- **Deployed Site URL:** [Insert Link]
-- **GitHub Repository:** [Insert Link]
-- **Submission Email:** tech@themedius.ai & hr@themedius.ai
 
----
 
-## Notes
-- The required pages are accessible through the **navbar** under the **"Better"** element.
-- The application closely follows the design and functionality of Better.com.
-
-📩 Feel free to reach out for any queries!
-
----
-
-### Author
-**Koushal Kumar**  
-[Your Contact Information]
 
