@@ -4,10 +4,10 @@
 This project is a multi-page web application built using **React with Next.js**, replicating the design and basic functionality of four specific pages from **Better.com**. The application includes navigation, interactive components, and responsive design, ensuring a seamless user experience.
 
 ## Live Demo
-🔗 **Deployed Application:**[ [Insert Link]](https://assiggment4.netlify.app/)
+🔗 **Deployed Application:**(https://assiggment4.netlify.app/)
 
 ## Repository
-🔗 **GitHub Repository:** [[Insert Link]](https://github.com/koushal78/Assigment_4)
+🔗 **GitHub Repository:** (https://github.com/koushal78/Assigment_4)
 
 ---
 
