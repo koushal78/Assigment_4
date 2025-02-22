@@ -8,7 +8,7 @@ import img from '../public/hero-variant-c.jpg'
 import Image from "next/image";
 import img1 from "../public/search.png"
 import Footer from "./Component/Footer"
-import img2 from "../public/img2.png"
+import imgNew from "../public/img2.png"
 import CenterDiv from "./Component/CenterDiv"
 export default function Home() {
   const [activeTestimonial, setActiveTestimonial] = useState('Arian');
@@ -115,7 +115,7 @@ export default function Home() {
       </div>
     </div>
       <div className="rounded-lg flex items-center justify-center  ">
-        <Image src={img2} alt="photo" className="  rounded-lg max-w-[400px] h-[600px]"/>
+        <Image src={imgNew} alt="photo" className="  rounded-lg max-w-[400px] h-[600px]"/>
       </div>
 </div>
 
