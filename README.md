@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Better.com Replica - React Intern Assignment
 
-## Getting Started
+## Overview
+This project is a multi-page web application built using **React with Next.js**, replicating the design and basic functionality of four specific pages from **Better.com**. The application includes navigation, interactive components, and responsive design, ensuring a seamless user experience.
 
-First, run the development server:
+## Live Demo
+🔗 **Deployed Application:** [Insert Link]
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Repository
+🔗 **GitHub Repository:** [Insert Link]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
+- **Navigation:** Access all pages from the **navbar** under the **"Better"** element.
+- **Routing:** Implemented using Next.js for seamless page transitions.
+- **Interactive Components:** Fully functional **Mortgage Calculator** and relevant forms.
+- **Responsiveness:** Optimized for desktop, tablet, and mobile devices.
+- **Styling:** Styled using **CSS, SCSS, or styled-components** to match the original design.
+- **Deployment:** Hosted on **Vercel/Netlify/Heroku** for easy access.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Pages Implemented
+1. **Home Page** - [https://better.com](https://better.com)
+2. **About Us Page** - [https://better.com/about-us/](https://better.com/about-us/)
+3. **Mortgage Calculator Page** - [https://better.com/mortgage-calculator?taxes=265&zip=421005](https://better.com/mortgage-calculator?taxes=265&zip=421005)
+4. **Start Page** - [https://better.com/start](https://better.com/start)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
+- **Frontend:** React.js, Next.js
+- **Styling:** CSS, SCSS, or styled-components
+- **Deployment:** Vercel/Netlify/Heroku
+- **Version Control:** Git & GitHub
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Installation & Setup
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Prerequisites
+Make sure you have **Node.js** and **Git** installed.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Steps to Run Locally
+1. Clone the repository:
+   ```sh
+   git clone [Insert Repository URL]
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd better-com-replica
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the development server:
+   ```sh
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+---
+
+## Deployment
+To deploy on **Vercel**, follow these steps:
+1. Install Vercel CLI:
+   ```sh
+   npm install -g vercel
+   ```
+2. Login to Vercel:
+   ```sh
+   vercel login
+   ```
+3. Deploy:
+   ```sh
+   vercel
+   ```
+
+---
+
+## Submission
+- **Deployed Site URL:** [Insert Link]
+- **GitHub Repository:** [Insert Link]
+- **Submission Email:** tech@themedius.ai & hr@themedius.ai
+
+---
+
+## Notes
+- The required pages are accessible through the **navbar** under the **"Better"** element.
+- The application closely follows the design and functionality of Better.com.
+
+📩 Feel free to reach out for any queries!
+
+---
+
+### Author
+**Koushal Kumar**  
+[Your Contact Information]
+
